@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-x0srgi.asian4dkab.site/sitemap.xml
